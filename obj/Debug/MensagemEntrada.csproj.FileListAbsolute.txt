@@ -1,0 +1,10 @@
+C:\Users\Aluno\Documents\Igor ADS\Programação Visual\Exercicios\ExerciciosIniciais\MensagemEntrada\bin\Debug\MensagemEntrada.exe.config
+C:\Users\Aluno\Documents\Igor ADS\Programação Visual\Exercicios\ExerciciosIniciais\MensagemEntrada\bin\Debug\MensagemEntrada.exe
+C:\Users\Aluno\Documents\Igor ADS\Programação Visual\Exercicios\ExerciciosIniciais\MensagemEntrada\bin\Debug\MensagemEntrada.pdb
+C:\Users\Aluno\Documents\Igor ADS\Programação Visual\Exercicios\ExerciciosIniciais\MensagemEntrada\obj\Debug\MensagemEntrada.csprojAssemblyReference.cache
+C:\Users\Aluno\Documents\Igor ADS\Programação Visual\Exercicios\ExerciciosIniciais\MensagemEntrada\obj\Debug\MensagemEntrada.Form1.resources
+C:\Users\Aluno\Documents\Igor ADS\Programação Visual\Exercicios\ExerciciosIniciais\MensagemEntrada\obj\Debug\MensagemEntrada.Properties.Resources.resources
+C:\Users\Aluno\Documents\Igor ADS\Programação Visual\Exercicios\ExerciciosIniciais\MensagemEntrada\obj\Debug\MensagemEntrada.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\Igor ADS\Programação Visual\Exercicios\ExerciciosIniciais\MensagemEntrada\obj\Debug\MensagemEntrada.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Igor ADS\Programação Visual\Exercicios\ExerciciosIniciais\MensagemEntrada\obj\Debug\MensagemEntrada.exe
+C:\Users\Aluno\Documents\Igor ADS\Programação Visual\Exercicios\ExerciciosIniciais\MensagemEntrada\obj\Debug\MensagemEntrada.pdb
